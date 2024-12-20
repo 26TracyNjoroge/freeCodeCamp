@@ -9,6 +9,7 @@ This repository contains various projects completed as part of the FreeCodeCamp 
 
 
 
-## Developer
+
+### Developer
 
 Coded with by [Tracy Wangari](https://github.com/26TracyNjoroge)
